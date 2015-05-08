@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingConfig_f708de0168dbb6e9c94d2d58a3f19226.zip">
+  <arel><![CDATA[html/index.html?878956f35747f2cc18119aba697a6cfd]]></arel>
+  <object id="button1">
+    <title><![CDATA[Button 'btn_play']]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/70aceb7a5967ad87a92c2d1a2bb2981e/70aceb7a5967ad87a92c2d1a2bb2981e.zip]]></model>
+      <transform>
+        <translation>
+          <x>-360.3191223145</x>
+          <y>361.4506530762</y>
+          <z>5.0898470879</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.9619140625</x>
+          <y>0.9619140625</y>
+          <z>0.9619140625</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="button2">
+    <title><![CDATA[Button 'btn_pause']]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/61b20615cb42b40e11bb30e5c5b1f566/61b20615cb42b40e11bb30e5c5b1f566.zip]]></model>
+      <transform>
+        <translation>
+          <x>367.350769043</x>
+          <y>349.9971313477</y>
+          <z>5.0898013115</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.9619140625</x>
+          <y>0.9619140625</y>
+          <z>0.9619140625</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="video1">
+    <title><![CDATA[Indila - Thug Mariage (Solo)]]></title>
+    <assets3d>
+      <movie><![CDATA[html/resources/f6f10081b198717bb4a4b66a0caf29ba/videoGood.3g2]]></movie>
+      <transform>
+        <translation>
+          <x>-1.7602109909</x>
+          <y>-225.2171020508</y>
+          <z>5.086918354</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>8.5094203949</x>
+          <y>8.5094203949</y>
+          <z>1.0</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="model3">
+    <title><![CDATA[Mammut]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/97e211852373189b8583ee9d7131e61a/8d3ccb26d6f85eaa7019644b4a5b55da.zip]]></model>
+      <transform>
+        <translation>
+          <x>-29.5869445801</x>
+          <y>40.4446258545</y>
+          <z>2.2157204151</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>-91.343963623</z>
+        </rotation>
+        <scale>
+          <x>0.2373067737</x>
+          <y>0.2373067737</y>
+          <z>0.2373067737</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>2</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="image4">
+    <title><![CDATA[logo]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/390f45ca01609822fc9913ba5df1d1b5/390f45ca01609822fc9913ba5df1d1b5.zip]]></model>
+      <transform>
+        <translation>
+          <x>2.0618133545</x>
+          <y>5.321182251</y>
+          <z>0.0</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.7153299451</x>
+          <y>0.7153299451</y>
+          <z>0.7153299451</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>-1</coordinatesystemid>
+        <screenanchor flags="4">5</screenanchor>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+</results>
