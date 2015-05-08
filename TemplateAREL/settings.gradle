@@ -1,3 +1,0 @@
-include ':TemplateAREL'
-include ':MetaioSDK'
-project(':MetaioSDK').projectDir = new File('../metaioSDK')
